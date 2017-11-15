@@ -1,2 +1,2 @@
 # hello-world
-# this is the firs git check in.
+# this is the first git check in.
